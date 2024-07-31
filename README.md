@@ -1,1 +1,1 @@
-Countdown bot for my son Vasya bithday
+Countdown bot for my son Vasya's bithday
